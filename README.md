@@ -171,7 +171,7 @@ Ajout des deux machines virtuelles dans le Backend Pool.
 
 Test PowerShell montrant que les réponses proviennent des deux serveurs Web.
 
-![Load Balancing Test](test-load-balancing.png)
+![Load Balancing Test](07-load-balancing-test.png)
 
 ---
 
